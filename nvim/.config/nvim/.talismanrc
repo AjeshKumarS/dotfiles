@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: lua/plugins/nvim-cmp.lua
+  checksum: 0e097c70f8c61932bc80c0d2fa467db1ca2c6509fe824713ec7691c69e7c6256
+- filename: lazy-lock.json
+  checksum: 9b4acda951b06bb9b8e1b0c0de94af9ce37b23bbb3706fb4b459a2618c6a8e97
+- filename: lua/plugins/cool-substitute.lua
+  checksum: f2e6dbf309048c14fd852d4890502d89349c1b15ac716385aa10616cca75f182
+- filename: lua/code/keymaps.lua
+  checksum: c832c857d884127ce7e37f86747049cf622ff5a7ac2731353b91123b4ad7fa09
+- filename: others/.zshrc
+  checksum: bfc7b3aed616e4c5b98da025e2f2cca875a6d45d634ef6418c7459c36e9c0ec8
+checksum:version: ""
