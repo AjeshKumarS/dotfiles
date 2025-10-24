@@ -42,3 +42,4 @@ stow tmux
 stow yazi
 stow vim
 stow ssh
+stow vscode --adopt
