@@ -8,7 +8,6 @@ fi
 export ZSH="$HOME/.oh-my-zsh"
 export ZSH_THEME="powerlevel10k/powerlevel10k"
 
-source $ZSH/oh-my-zsh.sh
 # ZSH plugins
 plugins=(
     git
@@ -68,3 +67,5 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 ## tmux alias
 alias tm="$HOME/.config/tmux/startup-script.sh"
 alias tx="$HOME/.config/tmux/startup-script.sh quick"
+
+source $ZSH/oh-my-zsh.sh

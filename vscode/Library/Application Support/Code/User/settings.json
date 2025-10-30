@@ -30,6 +30,7 @@
   },
   "window.zoomLevel": 0,
   "editor.suggestSelection": "first",
+  "editor.smoothScrolling": true,
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "go.toolsManagement.autoUpdate": true,
   "git.openRepositoryInParentFolders": "never",
