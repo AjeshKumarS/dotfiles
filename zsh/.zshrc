@@ -68,4 +68,10 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 alias tm="$HOME/.config/tmux/startup-script.sh"
 alias tx="$HOME/.config/tmux/startup-script.sh quick"
 
+## nvm config
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "/usr/local/opt/nvm/nvm.sh" ] && \. "/usr/local/opt/nvm/nvm.sh"
+[ -s "/usr/local/opt/nvm/etc/bash_completion" ] && \. "/usr/local/opt/nvm/etc/bash_completion"
+
 source $ZSH/oh-my-zsh.sh

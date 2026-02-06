@@ -503,5 +503,9 @@
   "geminicodeassist.project": "gen-lang-client-0637027643",
   "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1
-  }
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "vscode_custom_css.imports": [
+    "file:///Users/ajesh/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+  ]
 }
